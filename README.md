@@ -1,50 +1,14 @@
-# osu-skin-collection
-Коллекция скинов для осу, которые я собираю со всего интернета(и которые мне нравятся чем-то)
+# Моя коллекция скинов для osu! 
 
-1) w4w343w43w4w
+Здесь я собираю и описываю лучшие скины, которые я использую.
 
-2) 434324324
+---
 
-3) 2
+## 1. Aristia(Edit) + _Hades
+**Скачать:** [Aristia(Edit) + _Hades.osk](https://drive.google.com/file/d/1KsUAkhSndc3g7-TuQGiRe3n0aGa-J9e4/view?usp=sharing)  
+**Описание:** Я давно скачал этот скин... Универсальный скин  
+**Скриншоты:**  
+![Скриншот 1](https://github.com/testik81/osu-skin-collection/blob/main/screenshots/screenshot034.jpg?raw=true)  
+![Скриншот 2](screenshots/aristia2.jpg)
 
-4) 4
 
-5) 4
-
-6) 4
-
-7) 4
-
-8) 4
-
-9) 4
-
-10) 4
-
-11) 4
-
-12) 4
-
-13) 4
-
-14) 4
-
-15) 4
-
-16) 4
-
-17) 4
-
-18) 4
-
-19) 4
-
-20) 4
-
-21) 4
-
-22) 4
-
-23) 4
-
-24) 4
