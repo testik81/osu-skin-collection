@@ -9,6 +9,6 @@
 **Описание:** Я давно скачал этот скин... Универсальный скин  
 **Скриншоты:**  
 ![Скриншот 1](https://github.com/testik81/osu-skin-collection/blob/main/screenshots/screenshot034.jpg?raw=true)  
-![Скриншот 2](screenshots/aristia2.jpg)
+![Скриншот 2](screenshots/screenshot035.jpg)
 
 
