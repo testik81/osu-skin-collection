@@ -1,3 +1,8 @@
+Здесь скины, с которыми я играю на постоянной основе.
+
+---
+
+
 ## 1. Vaxei 2023 + escace v2 + Saraune Leaves + ass
 **Скачать:** [-#govnoVAXEI19.10.osk](https://drive.google.com/file/d/1EmS71y7SQohaK5xTS9QBZXk4XtQ_h-Kf/view?usp=sharing)  
 **Описание:** Абсолютно универсальный скин  
@@ -16,4 +21,3 @@
 **Скриншоты:**  
 ![Скриншот 1](screenshots/hyppig1.jpg)  
 ![Скриншот 2](screenshots/hyppig2.jpg)
-
