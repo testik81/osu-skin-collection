@@ -1,4 +1,4 @@
-# Здесь скины, с которыми я играю на постоянной основе.
+# main skins
 
 ---
 
@@ -15,9 +15,55 @@
 ---
 
 
-## 2. # Hyperpigeon『DD』#
+## 2. govnoVaxei2023 + whitecat
+**Скачать:** [-#govno+whitecat.osk]()  
+**Описание:** 
+**Скриншоты:**  
+![Скриншот 1](screenshots/.jpg)  
+![Скриншот 2](screenshots/.jpg)
+
+
+---
+
+
+## 3. blooxoo + willy + kedama milk
+**Скачать:** [писос.osk]()  
+**Описание:** 
+**Скриншоты:**  
+![Скриншот 1](screenshots/.jpg)  
+![Скриншот 2](screenshots/.jpg)
+
+
+---
+
+
+## 4. idk but funny
+**Скачать:** [flowvarcolors.osk]()  
+**Описание:** 
+**Скриншоты:**  
+![Скриншот 1](screenshots/.jpg)  
+![Скриншот 2](screenshots/.jpg)
+
+
+---
+
+
+## 4. 
+**Скачать:** [.osk]()  
+**Описание:** 
+**Скриншоты:**  
+![Скриншот 1](screenshots/.jpg)  
+![Скриншот 2](screenshots/.jpg)
+
+
+---
+
+
+## 7. # Hyperpigeon『DD』#
 **Скачать:** [# Hyperpigeon『DD』#.osk](https://drive.google.com/file/d/1Ei_duCO1e4sKdaxqs4mMRrGmyHMQefxp/view?usp=sharing)  
-**Описание:** Скин с очень крутыми хитсаундами(лень прикреплять аудио)  
+**Описание:** Скин с очень крутыми(смешными пищащими) хитсаундами(лень прикреплять аудио)  
 **Скриншоты:**  
 ![Скриншот 1](screenshots/hyppig1.jpg)  
 ![Скриншот 2](screenshots/hyppig2.jpg)
+
+
