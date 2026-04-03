@@ -19,8 +19,8 @@
 **Скачать:** [-#govno+whitecat.osk](https://drive.google.com/file/d/1SQeLr-A7yTl-IaTv04Kn8keOQ7XwzhVz/view?usp=sharing)  
 **Описание:** STREAMS ONE LOVE
 **Скриншоты:**  
-![Скриншот 1](screenshots/-#govno+whitecat1.jpg)  
-![Скриншот 2](screenshots/-#govno+whitecat2.jpg)
+![Скриншот 1](screenshots/govno+whitecat1.jpg)  
+![Скриншот 2](screenshots/govno+whitecat2.jpg)
 
 
 ---
