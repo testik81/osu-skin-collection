@@ -1,6 +1,6 @@
-# Моя коллекция скинов для osu! 
+# My osu! skin collection
 
-Здесь я собираю и описываю лучшие скины, которые я использую.  
+Here i store the best skins i actually use.
 
 ---
 
