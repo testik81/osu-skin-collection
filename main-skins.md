@@ -1,12 +1,12 @@
 # main skins
 
-
+на первые 5 скинов лень делать скрины так что ток описание
 ---
 
 
 ## 0. -#GAVNOTL2.osk
 **Скачать:** [-#GAVNOTL2.osk](https://drive.google.com/file/d/1M66y-czE2_URB3yBpmMYvEaAgrRaIOFa/view?usp=sharing)  
-**Описание:**  
+**Описание:**  играбельный скин с курсором экоро и разноцветными хитсерклами
 **Скриншоты:**  
 
 
@@ -15,7 +15,7 @@
 
 ## 01. -  {S}  FREEDOM DiVE REiMAGINED.osk
 **Скачать:** [-  {S}  FREEDOM DiVE REiMAGINED.osk](https://drive.google.com/file/d/121QUdJIFFDYVuGIe-lBxLLs5t3jvoV9c/view?usp=sharing)  
-**Описание:**  
+**Описание:**  btm
 **Скриншоты:**  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 02. -#govnodt.osk
 **Скачать:** [-#govnodt.osk](https://drive.google.com/file/d/1rPTpcRblMgFZPqRcdJkxceF312ykeEeC/view?usp=sharing)  
-**Описание:**  
+**Описание:**  good dt gg
 **Скриншоты:**  
 
 ---
@@ -31,7 +31,7 @@
 
 ## 03. -_twitch.tvutsuloli (akolibed edit).osk
 **Скачать:** [-_twitch.tvutsuloli (akolibed edit).osk](https://drive.google.com/file/d/1Wm7_e-RWiP8OSkL48M8kzWwK44u4A9-0/view?usp=sharing)  
-**Описание:**  
+**Описание:**  точно не подходит для хай ар для остального норм
 **Скриншоты:**  
 
 ---
@@ -39,7 +39,7 @@
 
 ## 04. Moonshine 2.1 [NM].osk
 **Скачать:** [Moonshine 2.1 NM.osk](https://drive.google.com/file/d/15uD-nZsvu-ihINJoV3trULwXQfFLrNoJ/view?usp=sharing)  
-**Описание:**  
+**Описание:**  номод норм
 **Скриншоты:**  
 
 ---
